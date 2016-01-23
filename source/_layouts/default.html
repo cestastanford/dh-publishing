@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="container">
+
+      {% if site.draft %}
+        <p class="draft-warning">
+          This syllabus is a DRAFT and subject to change.
+        </p>
+      {% endif %}
+
+      {% include header.html %}
+
+      {{ content }}
+
+      {% include footer.html %}
+
+    </div>
+  </body>
+</html>

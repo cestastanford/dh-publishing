@@ -1,0 +1,56 @@
+<header class="site-header">
+
+  <div class="row">
+    <div class="twelve columns">
+
+      <h1 class="site-title">
+        <a href="{{ site.baseurl }}/">
+          {{ site.title }}
+        </a>
+      </h1>
+
+      <nav class="site-nav">
+        {% for order in (1..10) %}
+          {% for page in site.pages %}
+            {% if page.order == order %}
+              {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+        {% if site.course_blog %}
+          <a class="page-link" href="{{ site.course_blog }}">Course Blog</a>
+        {% endif %}
+      </nav>
+
+      {% if page.url == '/' %}
+        <div class="metadata row">
+          <div class="twelve columns">
+            <p>
+              {{ site.course_university }},
+              {% if site.course_department %}
+                {{ site.course_department }}. 
+              {% endif %}
+            </p>
+            <p>
+              {{ site.course_semester }}.
+              {% if site.course_catalog %}
+                <a href="{{ site.course_catalog }}"> {{ site.course_number }}</a>.
+              {% else %}
+                {{ site.course_number }}.
+              {% endif %}
+            </p>
+            <p>
+              {{ site.course_room }}. {{ site.course_meetingtime }}
+            </p>
+            <p>
+              {{ site.instructor_name }}, 
+              <a href="mailto:{{ site.instructor_email }}"><code>{{ site.instructor_email }}</code></a>,
+              {{ site.instructor_office }}.
+            </p>
+          </div>
+        </div>
+      {% endif %}
+
+    </div>
+  </div>
+</header>
