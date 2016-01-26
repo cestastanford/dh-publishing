@@ -4,7 +4,7 @@ order: 1
 title: Course Description
 ...
 
-#Humanities + Design: Build a better research and publication workflow with digital tools
+#Humanities + Design: Build a workflow for digital research and publication
 
 How do digital research practices effect the Humanities research process? From reading to writing, from review to publication, Humanities research relies increasingly on digital workfows. Keeping track of new software that promises to make writing easier, only to see it dissolve into oblivion before you've completed the second chapter of your dissertation is maddening. In this course you will learn the foundational tools of digital writing and design your own digital research process. Together we will explore the theoretical and practical challenges of publishing born-digital scholarship in the humanities.
 
