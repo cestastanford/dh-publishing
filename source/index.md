@@ -25,10 +25,6 @@ You will need copies of these books. All other readings are available on [the sc
 
 -   Robert Darnton, *The Case for Books: Past, Present, and Future* (New York: Public Affairs, 2009).
 
--   Ted Friedman, *Electric Dreams: Computers in American Culture* (New York: New York University Press, 2005).
-
--   Johanna Drucker, *SpecLab: Digital Aesthetics and Projects in Speculative Computing* (Chicago: University of Chicago, 2009).
-
 -   Jerry Peek, et al., *Learning the UNIX Operating System* (O'Reilly, 2002).
 
 ## Software
