@@ -4,9 +4,7 @@ order: 1
 title: Course Description
 ...
 
-How do digital research practices effect the Humanities research process? From reading to writing, from review to publication, Humanities research relies increasingly on digital workfows. Keeping track of new software that promises to make writing easier, only to dissolve into oblivion before you've completed the second chapter of your dissertation is maddening. In this course you will learn the foundational tools of digital writing and design your own digital research process. You will be introduced to simple but effective techniques for gathering and managing data, collecting citations, and writing in a computational environment. Together we will...    design of humanities research workflows, learning about the design process and design theory as it applies to digital humanities research. 
-
-In this course, you will be introduced to theoretical and practical problems of publishing born-digital scholarship in the humanities.
+How do digital research practices effect the Humanities research process? From reading to writing, from review to publication, Humanities research relies increasingly on digital workfows. Keeping track of new software that promises to make writing easier, only to dissolve into oblivion before you've completed the second chapter of your dissertation is maddening. In this course you will learn the foundational tools of digital writing and design your own digital research process. You will be introduced to simple but effective techniques for gathering and managing data, collecting citations, and writing in a computational environment. In this course, you will be introduced to theoretical and practical problems of publishing born-digital scholarship in the humanities.
 
 ## Learning goals
 
