@@ -5,9 +5,6 @@ source: source
 destination: public
 
 # Build settings
-gems: 
-  - jekyll-pandoc
-markdown: pandoc
 pandoc:
   extensions:
     - smart
@@ -19,7 +16,7 @@ draft: true
 
 # Course information
 title: "Design and Digital Scholarship Publishing"
-course_catalog: 
+course_catalog:
 course_credithours: 2
 course_department: Humanities+Design
 course_university: Stanford University
@@ -27,8 +24,8 @@ course_meetingtime: "Wednesdays, 1:00 to 3:00 p.m."
 course_number: "DLCL 202"
 course_room: "CESTA, 4th floor of Wallenberg Hall"
 course_semester: "Spring 2016"
-# course_blog: 
-instructor_email: jheppler@stanford.edu
+# course_blog:
+instructor_email: cnc@stanford.edu or jheppler@stanford.edu
 instructor_name: Nicole Coleman and Jason Heppler
 instructor_office: "Building 200, Rm. 122 (Jason); CESTA (Nicole)"
 instructor_officehours: Office hours by appointment
