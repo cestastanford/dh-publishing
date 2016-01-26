@@ -10,7 +10,7 @@ How do digital research practices effect the Humanities research process? From r
 
 After taking this course, you will be able to
 
--   something
+-   You will be introduced to simple but effective techniques for gathering and managing data, collecting citations, and writing in a computational environment. 
 -   something
 
 ## Books
