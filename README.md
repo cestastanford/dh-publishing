@@ -1,6 +1,6 @@
 # Design and Digital Humanities Publishing
 
-This is the syllabus and website for "[Design and Digital Humanities Publishing](http://jasonheppler.org/teaching/dh-publishing.2016/)" offered at Stanford University by [Jason Heppler](http://jasonheppler.org) and Nicole Coleman.
+This is the syllabus and website for "[DLCL 202, Humanities + Design: Design and Digital Humanities Publishing](http://jasonheppler.org/teaching/dh-publishing.2016/)" offered at Stanford University by [Jason Heppler](http://jasonheppler.org) and Nicole Coleman.
 
 ## License
 
