@@ -1,6 +1,6 @@
-# Design and Digital Humanities Publishing
+# Humanities + Design: Building a workflow for digital research and publication
 
-This is the syllabus and website for "[DLCL 202, Humanities + Design: Design and Digital Humanities Publishing](http://jasonheppler.org/teaching/dh-publishing.2016/)" offered at Stanford University by [Jason Heppler](http://jasonheppler.org) and Nicole Coleman.
+This is the syllabus and website for "[DLCL 202, Humanities + Design: Building a workflow for digital research and publication](http://hdlab.stanford.edu/teaching/index.html)" offered at Stanford University by [Jason Heppler](http://jasonheppler.org) and [Nicole Coleman](http://hdlab.stanford.edu).
 
 ## License
 
